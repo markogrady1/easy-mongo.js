@@ -52,8 +52,9 @@ var param = {
 var param3 = {
 	collection: "users",
 	record: { 
-		"username": "Bob",
-		"email": "bob@someplace"
+		"firstname": "Bob",
+        "lastname": "Bar",
+        "email": "bob@someplace.com"
 	}
 }
 var record = { "username": "Bob", "email": "bob@someplace" };
