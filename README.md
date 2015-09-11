@@ -1,4 +1,4 @@
-#easy-mongoJS  
+#easy-mongojs 
 
 
 ##Making the use of MongoDB very simple. 
