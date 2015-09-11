@@ -14,7 +14,7 @@ and your ready to go...
 **Implementation**   
 Terminal   
 ```bash
-$ npm install easy-mongoJS --save
+$ npm install easy-mongo.js --save
 ```
 Javascript file
 ```javascript
