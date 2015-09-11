@@ -89,6 +89,18 @@ mgo.getConnection('users',  function(db) {
   })
 });
 ```
+
+Edit configuration:
+Simply change the port or host.
+
+```javascript
+//  /config/dbConfig.js
+var config = module.exports = {
+	mdb: "mongodb://",
+	mhost: "127.0.0.1",
+	mport: ":27017/"
+};
+```
 [requirements]: https://github.com/jquery/content/issues/4  
 [node-requirements]: https://nodejs.org/
 [mongodb-requirements]: https://www.mongodb.org/
