@@ -1,4 +1,4 @@
-#easy-mongo.js 
+#mongo-easy.js 
 
 
 ##Making the use of MongoDB very simple. 
@@ -14,11 +14,11 @@ and your ready to go...
 **Implementation**   
 Terminal   
 ```bash
-$ npm install easy-mongoJS --save
+$ npm install mongo-easy --save
 ```
 Javascript file
 ```javascript
-var mgo = require('easy-mongoJS');
+var mgo = require('mongo-easy');
 
 
 ```
