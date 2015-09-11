@@ -1,5 +1,5 @@
 {
-  "name": "easy-mongoJS",
+  "name": "easy-mongo.js",
   "version": "0.0.1",
   "description": "Simple mongodb adapter",
   "main": "src/index.js",
