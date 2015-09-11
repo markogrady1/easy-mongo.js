@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/markogrady1/easy-mongoJS.git"
+    "url": "https://github.com/markogrady1/moongo-easy.git"
   },
   "author": {
     "name": "Mark O Grady",
